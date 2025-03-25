@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/universal-editor-demo-239/:/",
-    "/content/universal-editor-demo-239/configuration:/.helix/config.json",
-    "/content/universal-editor-demo-239/metadata:/metadata.json"
+    "/content/uni-239/:/",
+    "/content/uni-239/configuration:/.helix/config.json",
+    "/content/uni-239/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/universal-editor-demo-239/"
+    "/content/uni-239/"
   ]
 }
